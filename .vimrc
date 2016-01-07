@@ -6,5 +6,5 @@ set nobackup			" no annoying ~ backup files
 set ruler			" lines, cols in status line
 colorscheme desert		" desert colorscheme
 set hlsearch			" highlight search matches
-inoremap jj <C-c>		" remap jj to Ctrl-C 
+inoremap jj <C-c>		" remap Ctrl-C to jj
 
