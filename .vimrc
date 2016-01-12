@@ -10,4 +10,4 @@ inoremap jj <C-c>		" remap Ctrl-C to jj
 set tabstop=4			" the width of TAB seet to 4 
 set shiftwidth=4 		" indents will have a width of 4
 set expandtab			" on pressing tab, insert 4 spaces
-filetype plugin indent on	" filetype specific indentation!
+
