@@ -1,7 +1,7 @@
 set showmode                " show current mode in status line 
 syntax on                   " syntax highlighting
-set number 	                " show line numbers
-set backspace=2			        " set backspace like normal editor
+set number                  " show line numbers
+set backspace=2             " typical backspace functionality
 set nobackup                " no annoying ~ backup files
 set ruler                   " lines, cols in status line
 colorscheme desert          " desert colorscheme
